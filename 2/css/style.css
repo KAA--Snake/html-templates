@@ -49,7 +49,7 @@ body{
     background: url(../images/background.jpg) repeat;
 
 }
-.wrap{
+.page_wrap {
     width:80%;
     margin:auto;
     background: white;
